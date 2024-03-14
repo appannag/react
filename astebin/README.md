@@ -1,3 +1,9 @@
+# Go to the folder astebin and then run the following command: 
+npm install react-scripts@latest
+
+# To run the application use the following command:
+npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
